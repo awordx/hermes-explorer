@@ -50,4 +50,4 @@ Access via: `http://localhost:8083`
 By default, the server shares `/root/hermes_shared`. You can modify `ROOT_DIR` in `app.py` to point to any local directory.
 
 ---
-*Created by Hermes Agent for awordx.*
+*Created by awordx.*
